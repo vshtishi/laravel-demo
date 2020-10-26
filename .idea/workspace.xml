@@ -138,7 +138,7 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$USER_HOME$/test/laravel_test" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="RecentsManager">
@@ -165,7 +165,7 @@
       <workItem from="1603263126129" duration="20275000" />
       <workItem from="1603349477515" duration="5895000" />
       <workItem from="1603365420296" duration="7387000" />
-      <workItem from="1603435589035" duration="7862000" />
+      <workItem from="1603435589035" duration="16381000" />
     </task>
     <servers />
   </component>
@@ -173,10 +173,19 @@
     <option name="version" value="3" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="238" y="103" width="537" height="568" key="NewPhpClassDialog" timestamp="1603179913426">
-      <screen x="0" y="27" width="1024" height="741" />
+    <state x="693" y="298" width="524" height="491" key="#com.jetbrains.php.actions.copyPaste.importReferences.PhpImportReferencesDialog" timestamp="1603452532387">
+      <screen x="0" y="27" width="1920" height="1053" />
+    </state>
+    <state x="693" y="298" width="524" height="491" key="#com.jetbrains.php.actions.copyPaste.importReferences.PhpImportReferencesDialog/1920.0.1920.1080/0.27.1920.1053@0.27.1920.1053" timestamp="1603452532387" />
+    <state x="743" y="298" width="424" height="491" key="FileChooserDialogImpl" timestamp="1603457948048">
+      <screen x="0" y="27" width="1920" height="1053" />
+    </state>
+    <state x="743" y="298" width="424" height="491" key="FileChooserDialogImpl/1920.0.1920.1080/0.27.1920.1053@0.27.1920.1053" timestamp="1603457948048" />
+    <state x="490" y="145" width="473" height="568" key="NewPhpClassDialog" timestamp="1603452697908">
+      <screen x="0" y="27" width="1920" height="1053" />
     </state>
     <state x="238" y="103" width="537" height="568" key="NewPhpClassDialog/1024.0.1920.1080/0.27.1024.741@0.27.1024.741" timestamp="1603179913426" />
+    <state x="490" y="145" width="473" height="568" key="NewPhpClassDialog/1920.0.1920.1080/0.27.1920.1053@0.27.1920.1053" timestamp="1603452697908" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
